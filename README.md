@@ -1,2 +1,1 @@
-# docling
-docling test
+Docling 独立验证：使用合成样本评估中文读取、资源占用、离线运行和临时文件残留
